@@ -3,7 +3,6 @@
 
 <img src = "https://github.com/AGROTECH-PC/.github/blob/main/assets/app-logo.jpg">
 
-<br>
 
 ## Welcome, this is our official open-source GitHub organisation profile as company.
 
