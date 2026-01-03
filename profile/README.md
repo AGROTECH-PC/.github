@@ -1,6 +1,10 @@
 # AGROTECH I.K.E. / P.C.
 > Software Solutions & More Company!
 
+<img src = "https://github.com/AGROTECH-PC/.github/blob/main/assets/app-logo.jpg">
+
+<br>
+
 ## Welcome, this is our official open-source GitHub organisation profile as company.
 
 We are a Greek software development company focused on building reliable, secure, and modern software solutions for education, businesses, and public-sector needs.
