@@ -1,4 +1,4 @@
-# AGROTECH I.K.E. / P.C.
+# AGROTECH INNOVATIONS I.K.E. / P.C.
 > Software Solutions & More Company!
 
 <img src = "https://github.com/AGROTECH-PC/.github/blob/main/assets/app-logo.jpg">
