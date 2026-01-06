@@ -1,7 +1,7 @@
 # AGROTECH INNOVATIONS I.K.E. / P.C.
 > Software Solutions & More Company!
 
-<img src = "https://github.com/AGROTECH-PC/.github/blob/main/assets/app-logo.jpg">
+<img src = "https://github.com/AGROTECH-PC/.github/blob/main/assets/ike.png">
 
 
 ## Welcome, this is our official open-source GitHub organisation profile as company.
